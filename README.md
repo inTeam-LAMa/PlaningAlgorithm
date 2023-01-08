@@ -1,1 +1,1 @@
-# PlaningAlgorithm
+# PlaningAlgorithms
